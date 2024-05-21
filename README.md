@@ -1,1 +1,1 @@
-This is a recepe written as an exercise. 
+This is a recepe written for exercise. 
